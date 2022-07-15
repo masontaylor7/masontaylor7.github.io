@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/masontaylor7.github.io/static/css/main.75020d9d.css",
+    "main.js": "/masontaylor7.github.io/static/js/main.2ba422fc.js",
+    "static/js/787.8d94465b.chunk.js": "/masontaylor7.github.io/static/js/787.8d94465b.chunk.js",
+    "static/media/individual-recipe.jpg": "/masontaylor7.github.io/static/media/individual-recipe.9a7eb555f3a5843a29b3.jpg",
+    "static/media/alacarte-browse.jpg": "/masontaylor7.github.io/static/media/alacarte-browse.7d5ccfa7cc53603f9d2d.jpg",
+    "static/media/new-recipe.jpg": "/masontaylor7.github.io/static/media/new-recipe.0033f478abf9d2207fcf.jpg",
+    "static/media/recipe-update.jpg": "/masontaylor7.github.io/static/media/recipe-update.580e283d3ee217a9354e.jpg",
+    "static/media/profile-flix.jpg": "/masontaylor7.github.io/static/media/profile-flix.fefc3b04f9a53154c2b7.jpg",
+    "static/media/fitness-splash.jpg": "/masontaylor7.github.io/static/media/fitness-splash.7bec6cf3ed5dc0d1a2c1.jpg",
+    "static/media/fitness-profile.jpg": "/masontaylor7.github.io/static/media/fitness-profile.0023d3f4f9495a24dab3.jpg",
+    "static/media/homepage-flix.jpg": "/masontaylor7.github.io/static/media/homepage-flix.8ed00a21005176d3df62.jpg",
+    "static/media/fitness-overflow-post.jpg": "/masontaylor7.github.io/static/media/fitness-overflow-post.8b9bc47b4c0c9fb35f7a.jpg",
+    "static/media/fitness-new-question.jpg": "/masontaylor7.github.io/static/media/fitness-new-question.5a81bdc472c8112897ec.jpg",
+    "static/media/login.JPG": "/masontaylor7.github.io/static/media/login.264d0acc6e64c0cf1209.JPG",
+    "static/media/upload-flix.jpg": "/masontaylor7.github.io/static/media/upload-flix.09de6126c3c813326f46.jpg",
+    "static/media/resume.pdf": "/masontaylor7.github.io/static/media/resume.7e9a73f0fed114fffadd.pdf",
+    "static/media/mason.jpg": "/masontaylor7.github.io/static/media/mason.ff47c98b22e4b5bfd35f.jpg",
+    "index.html": "/masontaylor7.github.io/index.html",
+    "main.75020d9d.css.map": "/masontaylor7.github.io/static/css/main.75020d9d.css.map",
+    "main.2ba422fc.js.map": "/masontaylor7.github.io/static/js/main.2ba422fc.js.map",
+    "787.8d94465b.chunk.js.map": "/masontaylor7.github.io/static/js/787.8d94465b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75020d9d.css",
+    "static/js/main.2ba422fc.js"
+  ]
+}
