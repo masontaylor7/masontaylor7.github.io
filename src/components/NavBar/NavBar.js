@@ -30,7 +30,7 @@ const NavBar = () => {
 
                             <a className='link-button-nav' target="_blank" rel="noreferrer" href='https://github.com/masontaylor7'><BsGithub style={iconStyle} /></a>
 
-                            <a className='link-button-nav' target="_blank" rel="noreferrer" href='https://ala-carte.herokuapp.com/'><SiAngellist style={iconStyle} /></a>
+                            <a className='link-button-nav' target="_blank" rel="noreferrer" href='https://angel.co/u/mason-taylor-8'><SiAngellist style={iconStyle} /></a>
 
                             <div className='resume-popup'>
                                 <a className='link-button-nav resume-icon' target="_blank" rel="noreferrer" href={resumepdf}>

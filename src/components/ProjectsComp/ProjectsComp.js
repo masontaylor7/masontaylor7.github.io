@@ -95,8 +95,8 @@ const ProjectsComp = () => {
                             <div className='project-description'>Flixtagram is a clone of the great Instagram app. While taking some creative differences, the familiar layout makes it comfortable for users to share and like posts, granting users the ability to also follow other users and keep up with their lives. </div>
                         </div>
                         <div className='link-block'>
-                            <a className='link-button' target="_blank" rel="noreferrer" href='https://github.com/jonathancchsu/fitness-overflow'><h3>GitHub</h3> <BsGithub className='github-project-icon' style={iconStyle} /></a>
-                            <a className='link-button' target="_blank" rel="noreferrer" href='https://fitnessoverflow.herokuapp.com/'><h3>Live Link</h3> <BsCloudArrowUp style={iconStyle} /></a>
+                            <a className='link-button' target="_blank" rel="noreferrer" href='https://github.com/parth610/Insta-Clone'><h3>GitHub</h3> <BsGithub className='github-project-icon' style={iconStyle} /></a>
+                            <a className='link-button' target="_blank" rel="noreferrer" href='https://flixtagram.herokuapp.com/'><h3>Live Link</h3> <BsCloudArrowUp style={iconStyle} /></a>
                         </div>
                     </div>
                 </div>
