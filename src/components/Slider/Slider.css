@@ -1,0 +1,23 @@
+.dot:hover {
+    color: #fdc237;
+}
+
+.dot:active {
+    color: #a8dadc;
+}
+
+.active {
+    color: #e63946;
+}
+
+.arrow-select {
+    transition: color 0.05s ease-in-out;
+}
+
+.arrow-select:hover {
+    color:  #fdc237;
+}
+
+.arrow-select:active {
+    color: #a8dadc;
+}
