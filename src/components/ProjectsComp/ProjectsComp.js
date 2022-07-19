@@ -110,7 +110,7 @@ const ProjectsComp = () => {
                         <div className='project-info'>
                             <h1 className='project-name'>Fitness-Overflow</h1>
                             <h3 className='project-techs'>[ Javascript, Express, PostgreSQL, HTML, CSS3, Pug ]</h3>
-                            <div className='project-description'>Fitness-Overflow is a platform built to provide health nuts and gym enthusiests with user submitted answers to all of their personal health and lifetsyle questions.</div>
+                            <div className='project-description'>Fitness-Overflow is a platform built to provide health nuts and gym enthusiasts with user submitted answers to all of their personal health and lifetsyle questions.</div>
                         </div>
                         <div className='link-block'>
                             <a className='link-button' target="_blank" rel="noreferrer" href='https://github.com/jonathancchsu/fitness-overflow'><h3>GitHub</h3> <BsGithub className='github-project-icon' style={iconStyle} /></a>
