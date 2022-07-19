@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/masontaylor7.github.io/static/css/main.75020d9d.css",
+    "main.css": "/masontaylor7.github.io/static/css/main.228dfd98.css",
     "main.js": "/masontaylor7.github.io/static/js/main.9637c0eb.js",
     "static/js/787.8d94465b.chunk.js": "/masontaylor7.github.io/static/js/787.8d94465b.chunk.js",
     "static/media/individual-recipe.jpg": "/masontaylor7.github.io/static/media/individual-recipe.9a7eb555f3a5843a29b3.jpg",
@@ -18,12 +18,12 @@
     "static/media/resume.pdf": "/masontaylor7.github.io/static/media/resume.7e9a73f0fed114fffadd.pdf",
     "static/media/mason.jpg": "/masontaylor7.github.io/static/media/mason.ff47c98b22e4b5bfd35f.jpg",
     "index.html": "/masontaylor7.github.io/index.html",
-    "main.75020d9d.css.map": "/masontaylor7.github.io/static/css/main.75020d9d.css.map",
+    "main.228dfd98.css.map": "/masontaylor7.github.io/static/css/main.228dfd98.css.map",
     "main.9637c0eb.js.map": "/masontaylor7.github.io/static/js/main.9637c0eb.js.map",
     "787.8d94465b.chunk.js.map": "/masontaylor7.github.io/static/js/787.8d94465b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75020d9d.css",
+    "static/css/main.228dfd98.css",
     "static/js/main.9637c0eb.js"
   ]
 }
