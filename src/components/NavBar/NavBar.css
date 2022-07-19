@@ -108,7 +108,7 @@
     height: 450px;
     width: 450px;
     border-radius: 50%;
-    box-shadow: -150px 200px 1px #e63946,
+    box-shadow: -150px 200px 1px -3em #e63946,
         210px 140px 1px -10em #f9c74f, 200px -200px 1px#a8dadc;
     margin-top: -30px;
 }
